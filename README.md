@@ -1,1 +1,1 @@
-Revature Training Repository 
+Revature Training Repository for JAVA/SQL/JDBC
